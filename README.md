@@ -31,7 +31,7 @@ This UI is designed to look good on both desktop and mobile:
 
 **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/modern-chair.git
+   git clone https://github.com/HimanshuKumar101/Modernchair.git
    cd modern-chair
 
 
